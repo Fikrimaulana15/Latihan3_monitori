@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fikrima_monitori</string>
+    <string name="todo" >TODO</string>
+    <string name="monitory_membantu_anda_n_mengontrol_hp_anak">Monitory Membantu Anda \n Mengontrol HP Anak</string>
+    <string name="mulai">Mulai</string>
+    <string name="kode_keluarga">Kode Keluarga</string>
+    <string name="ketikkan_kode_keluarga_yang_ayah_bunda_miliki_disini">Ketikkan kode keluarga Yang Ayah Bunda Miliki Disini</string>
+    <string name="a1b2c3">A1B2C3</string>
+    <string name="ketentuan">Dengan menekan tombol masuk berarti anda menyetujui <b>Ketentuan Pengguna</b> dan <b>Kebijakan Data</b> kami</string>
+</resources>
